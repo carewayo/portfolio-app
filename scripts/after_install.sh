@@ -8,4 +8,4 @@ cd /home/ubuntu/portfolio-app
 sudo npm install
 #npm install
 
-npm start
+#npm start
