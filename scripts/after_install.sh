@@ -5,7 +5,7 @@
 cd /home/ubuntu/portfolio-app
 #sudo apt update
 #sudo apt install nodejs
-sudo npm install
+npm install -g 
 #npm install
 
 #npm start
