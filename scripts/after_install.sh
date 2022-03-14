@@ -8,7 +8,7 @@ cd /home/ubuntu/myportfolio
 sudo npm install
 npm install
 
-npm start
+#npm start
 #sudo apt update
 #sudo apt install nodejs
 #npm install
