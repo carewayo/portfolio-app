@@ -5,7 +5,7 @@
 #sudo rm -rf /home/ubuntu/myportfolio
 #mkdir /home/ubuntu/myportfolio
 cd /home/ubuntu/myportfolio
-sudo npm install
+sudo npm install -g
 npm install
 
 #npm start
