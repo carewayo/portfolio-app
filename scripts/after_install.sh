@@ -5,4 +5,5 @@
 # mkdir /home/ubuntu/nodejs
 mkdir /home/ubuntu/myportfolio
 cd /home/ubuntu/myportfolio
-sudo npm install
+sudo npm install -g
+npm install
