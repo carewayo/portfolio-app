@@ -1,9 +1,10 @@
 #!/bin/bash
-# Install node.js  
-sudo yum install -y gcc-c++ make 
-curl -sL https://rpm.nodesource.com/setup_14.x | sudo -E bash -
-sudo yum update
-sudo yum install -y nodejs
+sudo apt install node.js  
+sudo apt install npm
+sudo apt install -y gcc-c++ make 
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+sudo apt update
+sudo apt install -y nodejs
 # Install nodemon
 # sudo npm install nodemon -g
 npm install
